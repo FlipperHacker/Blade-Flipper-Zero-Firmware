@@ -16,3 +16,15 @@ are to be used safely and used responsibly.
 
 However, I will remove certain features i include if i see massive amounts of misusage across tiktok etc. so please for everyones learning sake, use this properly and dont 
 be an idiot.
+
+# Whats Changed:
+- New updates to some of the previously used firmware
+- Increased *slightly* GHz distance with our CFW.
+- Added Custom IR + Sub-GHz Jammers to our add on package on our main profile.
+- Disabled custom images upon loading as it makes flippers slightly slower with CFW gifs. New ones will be added shortly.
+- IR Updates
+- Experimental features currently activated report any bugs to me immediately, updates coming to this firmware as needed.
+
+
+
+# !!!EDUCATIONAL PURPOSES AND USES ONLY!!!
