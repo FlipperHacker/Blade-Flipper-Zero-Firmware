@@ -1,5 +1,5 @@
 # Blade-Flipper-Zero-Firmware
- Custom Flipper Zero Firmware **FORKED FROM UNLEASHED FLIPPER ZERO FIRMWARE.**
+ Custom Flipper Zero Firmware **FORKED FROM UNLEASHED FLIPPER ZERO FIRMWARE & Rouge**
 
 # Information:
 Forked From Rogue & Unleashed i am creating a new version of flipper custom firmware bringing all features in one. 
